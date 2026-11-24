@@ -1,0 +1,6 @@
+{
+  "name": "agent-lab-kit",
+  "version": "0.1.0",
+  "description": "agent-lab 실습 묶음: 회의 요약 스킬, 읽기 전용 리뷰어 에이전트, 수정 후 자동 테스트 훅",
+  "author": { "name": "agent-lab" }
+}
